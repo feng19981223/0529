@@ -1,7 +1,17 @@
 <<<<<<< .mine
+<<<<<<< .mine
 hellohellohellohellohellohellohellohellohellohellohellohello
 你好你好你好
 =======
 hellohellohellohellohellohellohellohellohellohellohellohello
+
+>>>>>>> .theirs
+=======
+海海海海海
+
+
+
+
+
 
 >>>>>>> .theirs
